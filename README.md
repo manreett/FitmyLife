@@ -1,6 +1,5 @@
 # FitmyLife Android Studio Project
 
-![FitmyLife Logo](https://your-image-url.com)
 
 ## Introduction
 
